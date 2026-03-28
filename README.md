@@ -71,4 +71,5 @@ Data Protection Practices
 
 To build a secure and scalable e-commerce platform and gain hands-on experience in full-stack development.
 # ScreenShots 
-Picture1.png
+<img width="1332" height="748" alt="Picture1" src="https://github.com/user-attachments/assets/1509e9ae-fb9b-44a6-a1d6-60e54b3b3e0a" />
+
