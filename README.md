@@ -67,3 +67,6 @@ User Authentication & Authorization
 Secure Login System
 
 Data Protection Practices
+# Objective
+
+To build a secure and scalable e-commerce platform and gain hands-on experience in full-stack development.
