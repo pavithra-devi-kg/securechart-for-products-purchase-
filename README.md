@@ -284,3 +284,16 @@ This project is licensed under the MIT License.
 ## 🌟 Star this repo if you find it helpful!
 
 **Built with ❤️ using Flask and Python**
+
+# screenshots 
+
+<img width="1332" height="748" alt="Picture1" src="https://github.com/user-attachments/assets/fb8a3f9c-bcbd-4e4a-8828-240af7ee1dd6" />
+
+<img width="1290" height="726" alt="Picture3" src="https://github.com/user-attachments/assets/2cdc6279-f1f6-43fd-9d0a-868bc48c94b4" />
+
+<img width="1272" height="715" alt="Picture5" src="https://github.com/user-attachments/assets/26c84d5b-e77d-4e8f-bca5-777840842a0b" />
+
+<img width="1272" height="715" alt="Picture4" src="https://github.com/user-attachments/assets/069174ff-4973-4559-a2e1-325e1b7b6434" />
+
+<img width="1283" height="722" alt="Picture2" src="https://github.com/user-attachments/assets/76ce415f-3aee-4b78-b37c-7ef4f6a02fdd" />
+
