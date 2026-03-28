@@ -60,3 +60,10 @@ python manage.py runserver
 5.Open in browser
 
 http://127.0.0.1:8000/
+# Security Features
+
+User Authentication & Authorization
+
+Secure Login System
+
+Data Protection Practices
