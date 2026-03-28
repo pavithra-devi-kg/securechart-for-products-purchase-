@@ -1,3 +1,6 @@
+This proposal presents SecureCart, a full-stack e-commerce web application developed by Pavithra Devi, a BCA student. The project focuses on providing a secure and user-friendly platform for online product purchases. It demonstrates practical implementation of web development technologies and secure transaction handling. This work is submitted as part of academic requirements.
+
+
 # 🛡️ SecureCart Marketplace
 
 > A modern, secure e-commerce marketplace platform with premium dark theme design
