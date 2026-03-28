@@ -18,6 +18,9 @@ Order Management
 Admin Dashboard
 # Technologies Used
 Frontend: HTML, CSS, JavaScript
+
 Backend: Python (Django)
+
 Database: SQLite / MySQL
+
 Version Control: Git & GitHub
