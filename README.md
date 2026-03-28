@@ -39,4 +39,24 @@ SecureCart/
 │── static/
 
 │── requirements.txt
+# Installation & Setup
 
+1.Clone the repository
+
+git clone https://github.com/your-username/securecart-for-products-purchase.git
+
+2.Navigate to the project folder
+
+cd securecart-for-products-purchase
+
+3.Install dependencies
+
+pip install -r requirements.txt
+
+4.Run the server
+
+python manage.py runserver
+
+5.Open in browser
+
+http://127.0.0.1:8000/
