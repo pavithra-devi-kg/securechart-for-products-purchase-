@@ -24,3 +24,11 @@ Backend: Python (Django)
 Database: SQLite / MySQL
 
 Version Control: Git & GitHub
+#Project Structure
+SecureCart/
+│── manage.py
+│── db.sqlite3
+│── app/
+│── templates/
+│── static/
+│── requirements.txt
